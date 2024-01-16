@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd82d982-737a-46a0-992c-3bd71c0d55ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tigers.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tigers.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leopards.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/leopards.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +15,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "Rebasing conflict-2",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
